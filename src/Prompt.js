@@ -46,7 +46,7 @@ export default class Prompt extends Component {
     submitButtonStyle: {},
     submitButtonTextStyle: {},
     cancelButtonStyle: {},
-    cancelButtonTextStyle: {},
+    cancelButtonTextStyle: {color:'red'},
     inputStyle: {},
     onChangeText: () => {},
   };
